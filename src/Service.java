@@ -31,4 +31,10 @@ public class Service implements Operation{
 
         System.out.println("\nChoose your option:");
     }
+    
+    @Override
+    public String testingPullGitHub(){
+             // Testiing pull from git hub
+        System.out.println("Delete this line after pull ");
+        retur null;
 }
