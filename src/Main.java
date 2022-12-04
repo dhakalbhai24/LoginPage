@@ -8,9 +8,6 @@ public class Main {
 
         // Display menu
         service.displayMenu();
-        
-        // Testiing pull from git hub
-        System.out.println("Delete this line after pull ");
 
         int task = scan.nextInt();
 
